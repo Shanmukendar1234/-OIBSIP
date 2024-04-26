@@ -10,4 +10,4 @@ Task 3 is about the ATM Interface.
 
 Task 4 is about the Online Examination
 
-Task 5 is about the Digital Library Managment.
+Task 5 is about Digital Library management.
